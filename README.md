@@ -25,7 +25,9 @@
 - 完好資料
 
 ![image](https://github.com/980359ffjh/Python-Machine-Learning-Example/blob/master/result/healthy_predict.PNG)
+![image](https://github.com/980359ffjh/Python-Machine-Learning-Example/blob/master/result/healthy.png)
 
 - 異常資料
 
 ![image](https://github.com/980359ffjh/Python-Machine-Learning-Example/blob/master/result/broken_predict.PNG)
+![image](https://github.com/980359ffjh/Python-Machine-Learning-Example/blob/master/result/broken.png)
